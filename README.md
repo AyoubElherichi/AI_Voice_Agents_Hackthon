@@ -1,18 +1,27 @@
-# AI_Voice_Agents_Hackathon
+# AI\_Voice\_Agents\_Hackathon
 
 ## Project Name
+
 *NAilaVox*
 
 ## Project Description
+
 *NAilaVox* is an AI-powered voice bot designed to streamline order confirmation and delivery scheduling for e-commerce companies utilizing Cash on Delivery (COD). The bot automates customer interactions, ensuring quick, efficient, and polite communication while minimizing operational overhead.
 
+## Project Links
+
+- [Customer Data Spreadsheet](https://docs.google.com/spreadsheets/d/18KDg8HJW0ZBWElJH7Anblasbcy8RncoDOw5j_NcPoYg/edit?gid=0#gid=0): This spreadsheet serves as the database where NAilaVox stores customer responses, such as delivery addresses and confirmation statuses.
+- [AI Assistant Demo](https://vapi.ai/?demo=true\&shareKey=fb4fa5f2-3fdc-4e5b-9547-90501ee3e9f2\&assistantId=392736c0-f06f-4df5-894a-4101ae316b0f): This link provides a live demonstration of the NAilaVox assistant in action.
+
 ## Key Features
+
 - *Order Confirmation*: The bot verifies ordered items, confirms delivery addresses, and checks payment details.
 - *Delivery Scheduling*: Offers customers the option to provide preferred delivery times or additional courier instructions.
 - *Flexible Response Handling*: Recognizes variations in user responses (e.g., "Yeah," "Yup," "That’s right" for "Yes") and gracefully manages unclear inputs.
 - *Error Recovery*: Rephrases requests and minimizes repetition to ensure clarity without causing frustration.
 
 ## Workflow Example
+
 1. The AI agent introduces itself and provides order details:
    - "Hello! This is NAilaVox from [Company Name], calling to confirm your recent order with us. You placed an order for [item details] with a total amount of [amount] to be paid upon delivery. Can you please confirm if this is correct?"
 2. Customer confirms or denies the order.
@@ -24,6 +33,7 @@
 5. The bot summarizes the confirmation and provides final delivery details.
 
 ## Example Interaction
+
 *AI Agent:* "Hello! This is NAilaVox from [Company Name], calling to confirm your recent order with us. You placed an order for a pair of sneakers in size 10 with a total amount of 500 Dirham to be paid upon delivery. Can you please confirm if this is correct?"
 
 *User:* "Yes."
@@ -43,17 +53,14 @@
 *AI Agent:* "You're welcome! Goodbye!"
 
 ## Tools and Integrations
-- *save_address*: Stores the confirmed delivery address in the company database.
-- *order_declined*: Processes order cancellations as declined by the customer.
+
+- *save\_address*: Stores the confirmed delivery address in the company database.
+- *order\_declined*: Processes order cancellations as declined by the customer.
 
 ## Target Use Case
+
 NAilaVox is ideal for e-commerce platforms seeking to:
+
 - Reduce human resource dependency in customer service.
 - Enhance customer satisfaction with prompt and polite interactions.
 - Streamline COD order confirmations and minimize errors in delivery scheduling.
-
----
-*Hackathon Contribution*
-This project was developed as part of the AI Voice Agents Hackathon to demonstrate the application of conversational AI in e-commerce logistics.
-
-
