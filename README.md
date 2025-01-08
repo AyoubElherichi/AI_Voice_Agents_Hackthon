@@ -10,10 +10,7 @@
 
 ## Project Links
 
-- ### Demo Video:
 - [Project Demo Video](https://drive.google.com/file/d/1yrUAz1k5ssImC5lZWeDFG1b83StFZvUX/view): A recorded demonstration showcasing the capabilities and workflow of NAilaVox.  
-
-Click the image above to watch the NAilaVox demo video.
 - [AI Assistant Demo](https://vapi.ai/?demo=true\&shareKey=fb4fa5f2-3fdc-4e5b-9547-90501ee3e9f2\&assistantId=392736c0-f06f-4df5-894a-4101ae316b0f): This link provides a live demonstration of the NAilaVox assistant in action.
 - [Customer Data Spreadsheet](https://docs.google.com/spreadsheets/d/18KDg8HJW0ZBWElJH7Anblasbcy8RncoDOw5j_NcPoYg/edit?gid=0#gid=0): This spreadsheet serves as the database where NAilaVox stores customer responses, such as delivery addresses and confirmation statuses.
 
