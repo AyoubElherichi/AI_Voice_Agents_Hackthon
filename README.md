@@ -1,1 +1,1 @@
-# Voice_AI_Agents_Hackthon
+# AI_Voice_Agents_Hackthon
